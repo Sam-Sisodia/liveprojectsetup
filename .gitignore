@@ -1,0 +1,14 @@
+myenv/
+venv/
+/__pycache__/
+__pycache__/
+*/__pycache__/
+*.py[cod]
+db.sqlite3
+.vscode/
+RoboKidz/RoboKidz/media/
+RoboKidz/RoboKidz/__pycache__/
+RoboKidz/RoboKidz/.env
+RoboKidz/RoboKidz/logs/*
+RoboKidz/RoboKidz/logs/error.log
+RoboKidz/RoboKidz/settings/.env
